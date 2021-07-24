@@ -1,0 +1,12 @@
+com/game/MainActivity.java
+ com.game.MainActivity
+ com.game.MainActivity$1
+com/game/generated/BasePackageList.java
+ com.game.generated.BasePackageList
+com/game/MainApplication.java
+ com.game.MainApplication
+ com.game.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/game/BuildConfig.java
+ com.game.BuildConfig
